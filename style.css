@@ -149,6 +149,6 @@ body {
         padding: 25px 50px;
     }
     .pricing-plan:last-child{
-        border-radius: no   ;
+        border-right: none;
     }
 }
